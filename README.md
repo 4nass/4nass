@@ -42,8 +42,6 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
-
 💬 Programming Languages: 
 Other                    32 mins             █████████░░░░░░░░░░░░░░░░   35.69% 
 Bash                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   23.47% 
@@ -70,10 +68,6 @@ Java                     1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/4nass/4nass/master/charts/bar_graph.png) 
 
 
  Last Updated on 27/06/2021

@@ -43,10 +43,10 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -63,7 +63,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2021
+ Last Updated on 28/12/2021
 <!--END_SECTION:waka-->
 
 <!---

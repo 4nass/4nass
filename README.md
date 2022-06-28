@@ -45,10 +45,10 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      1 min               █████████████████████████   100.0%
 
 ```
 
@@ -65,7 +65,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2022 18:51:09 UTC
+ Last Updated on 28/06/2022 18:52:21 UTC
 <!--END_SECTION:waka-->
 
 <!---

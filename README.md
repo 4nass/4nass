@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,7 +70,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2022 18:47:05 UTC
+ Last Updated on 24/08/2022 18:54:55 UTC
 <!--END_SECTION:waka-->
 
 <!---

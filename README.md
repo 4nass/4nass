@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,10 +45,10 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 3 mins        █████████████████████████   100.0%
+Other                    3 hrs 39 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  7 hrs 3 mins        █████████████████████████   100.0%
+VS Code                  3 hrs 39 mins       █████████████████████████   100.0%
 
 ```
 
@@ -65,7 +65,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2022 18:47:49 UTC
+ Last Updated on 11/11/2022 18:49:09 UTC
 <!--END_SECTION:waka-->
 
 <!---

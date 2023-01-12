@@ -2,19 +2,19 @@
 - 👀 I’m interested in Cybersecurity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2023
+> 🏆 1 Contributions in the Year 2023
  > 
 > 📦 313.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -45,12 +45,12 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     14 mins             ████████████████░░░░░░░░░   65.98% 
-Other                    6 mins              ███████░░░░░░░░░░░░░░░░░░   28.68% 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.35%
+Other                    5 hrs 21 mins       ███████████████████████░░   95.21% 
+Java                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.0%
+VS Code                  5 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
@@ -67,7 +67,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2023 18:43:23 UTC
+ Last Updated on 12/01/2023 18:41:51 UTC
 <!--END_SECTION:waka-->
 
 <!---

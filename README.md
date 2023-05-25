@@ -43,10 +43,10 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -62,7 +62,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2023 18:35:27 UTC
+ Last Updated on 25/05/2023 18:35:35 UTC
 <!--END_SECTION:waka-->
 
 <!---

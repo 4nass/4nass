@@ -2,6 +2,8 @@
 - 👀 I’m interested in Cybersecurity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2046%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -14,6 +16,37 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+🌆 Daytime                18 commits          █████████████████░░░░░░░░   69.23 % 
+🌃 Evening                5 commits           █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 10 commits          ██████████░░░░░░░░░░░░░░░   38.46 % 
+Friday                   14 commits          █████████████░░░░░░░░░░░░   53.85 % 
+Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -27,7 +60,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 22:57:33 UTC
+ Last Updated on 15/04/2024 18:36:12 UTC
 <!--END_SECTION:waka-->
 
 <!---

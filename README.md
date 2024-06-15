@@ -2,8 +2,6 @@
 - 👀 I’m interested in Cybersecurity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2046%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -60,7 +58,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2024 18:38:51 UTC
+ Last Updated on 15/06/2024 18:37:18 UTC
 <!--END_SECTION:waka-->
 
 <!---

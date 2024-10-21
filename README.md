@@ -1,4 +1,4 @@
-Hi 👋, 
+👋 
 
 👀 I’m interested in Cybersecurity
 
